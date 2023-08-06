@@ -1,0 +1,5 @@
+1/robot/30/14
+2/car/40/12
+3/black delight(30)/50/16
+4/barbie/20/18
+5/vibrating pleasure(2000)/1/9
